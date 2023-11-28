@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Jakkapan
+ *
+ */
+module Kduay {
+}
